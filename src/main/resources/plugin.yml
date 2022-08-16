@@ -1,0 +1,7 @@
+name: HubCore
+version: '${project.version}'
+main: mc.apptoeat.com.hub.HubCore
+api-version: 1.19
+softdepend: [ PlaceHolderAPI ]
+authors: [ Crafticat ]
+description: A hub lobby
